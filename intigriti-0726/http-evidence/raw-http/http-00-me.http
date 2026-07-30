@@ -1,0 +1,34 @@
+### REQUEST (Caido id 87)
+GET /api/me HTTP/1.1
+Host: challenge-0726.intigriti.io
+User-Agent: curl/8.20.0
+Accept: */*
+Cookie: cy_session=JwkUT3jL…REDACTED
+
+
+
+### RESPONSE
+HTTP/1.1 200 OK
+Date: Thu, 30 Jul 2026 22:11:01 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 188
+Connection: keep-alive
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+ETag: W/"bc-2ZuMwGwKnQymW9AcBo6KO1d6UZM"
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/css2; img-src 'self' data:; connect-src 'self' https://fonts.googleapis.com/css2 https://fonts.gstatic.com; base-uri 'none'; form-action 'self'; frame-ancestors 'self'; font-src 'self' https://fonts.gstatic.com
+Referrer-Policy: no-referrer
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: geolocation=(), microphone=(), camera=()
+
+{"user":{"id":"752d0f8e-936a-44e8-982d-1e42cf91980f","username":"hax44265","namespace":"hax44265-d098d1e1"},"csrf_token":"c9ada9083ec26246…REDACTED"}

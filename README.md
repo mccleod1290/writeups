@@ -18,6 +18,8 @@ The app (Registry Observatory) builds protected preflight reports from a base64 
 
 Screenshots and diagram figures live under [`intigriti-0726/images/`](intigriti-0726/images/).
 
+HTTP request/response panes (Caido re-run, cookies/CSRF redacted) are in the HTML writeup section **8b** and under [`intigriti-0726/http-evidence/`](intigriti-0726/http-evidence/). PDF includes the same figures.
+
 ### Layout
 
 ```text

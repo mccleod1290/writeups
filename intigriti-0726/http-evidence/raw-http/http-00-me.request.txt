@@ -1,0 +1,6 @@
+GET /api/me HTTP/1.1
+Host: challenge-0726.intigriti.io
+User-Agent: curl/8.20.0
+Accept: */*
+Cookie: cy_session=JwkUT3jL…REDACTED
+

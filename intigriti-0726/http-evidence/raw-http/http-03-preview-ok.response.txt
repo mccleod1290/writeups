@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Date: Thu, 30 Jul 2026 22:11:04 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 38
+Connection: keep-alive
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+RateLimit-Policy: 60;w=60
+RateLimit: limit=60, remaining=58, reset=60
+ETag: W/"26-NBOX1OB+/Up94KD1FqIm06aWOJg"
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/css2; img-src 'self' data:; connect-src 'self' https://fonts.googleapis.com/css2 https://fonts.gstatic.com; base-uri 'none'; form-action 'self'; frame-ancestors 'self'; font-src 'self' https://fonts.gstatic.com
+Referrer-Policy: no-referrer
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: geolocation=(), microphone=(), camera=()
+
+{"valid":true,"operation":"preflight"}

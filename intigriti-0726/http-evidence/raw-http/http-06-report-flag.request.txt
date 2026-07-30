@@ -1,0 +1,6 @@
+GET /api/publications/6c92cb70-6452-47ed-b1e2-3f3b8a2646e0 HTTP/1.1
+Host: challenge-0726.intigriti.io
+User-Agent: curl/8.20.0
+Accept: */*
+Cookie: cy_session=JwkUT3jL…REDACTED
+

